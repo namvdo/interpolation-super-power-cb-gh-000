@@ -1,4 +1,3 @@
 def display_rainbow
-  color = ["red", "blue", "green", "pink", "pupil"]
-  puts result = [r=#{color[0]}]
+  color = [R: "red", O: "orange", Y: "yellow", G: "green", B: "blue", I: "indigo", V: "violet"]
 end
