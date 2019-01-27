@@ -1,4 +1,2 @@
-def display_rainbow
-  color = ['green', 'blue', 'pink']
-  puts "G:" #{color[0]}
-end
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+"R" + display_rainbow[0]
