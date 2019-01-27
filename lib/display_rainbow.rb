@@ -1,2 +1,3 @@
-display_raibow[("red", "blue", "green", "pink")]
-puts r = #{display_raibow[0]}
+def display_rainbow
+  color = ["red", "blue", "green", "pink", "pupil"]
+  result = [r:#{color[0]}]
